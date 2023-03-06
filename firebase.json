@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "source": "./path-to-your-express-directory",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
